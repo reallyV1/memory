@@ -116,7 +116,13 @@ question7=Question('Сколько дней нужно, чтобы Земля с
 question8=Question('До 1923 года как назывался турецкий город Стамбул?','Константинополь','Россия','Рим','Греция')
 question9=Question('Где находится самая маленькая кость в теле человека?','ухо','нос','палец','череп')
 question10=Question('Из какого зерна делается японский спирт саке','рис','чай','яблоко','гречка')
-questionlist=[question1,question2,question3,question4,question5,question6,question7,question8,question9,question10]
+question11=Question('Когда началась Первая Мировая война','1910','534','1239','398')
+question12=Question('Какая самая древняя цивилизация в мире?','Месопотамия','ytuih','пидоры','ркошамщз')
+question13=Question('Кого называют Наполеоном Ирана?','Надер Шах','негр','183','NT')
+question14=Question('Какая последняя династия в Китае?','цинь','суньхуйвчай','Тупойбидонбургер','обама')
+question15=Question('то является первым президентом Соединенных Штатов','вашингтон','question6','щбамаблинкольн','нгнша')
+
+questionlist=[question1,question2,question3,question4,question5,question6,question7,question8,question9,question10,question11,question12,question13,question14,question15]
 nextquetion()
 #спрятать группу
 main_win.curquestion=-1
